@@ -1,8 +1,7 @@
-import bayeta
-def main():
-	frases = bayeta.frotar(n_frases=5)
-	print(frases)
-
+from bayeta import frotar
 
 if __name__ == "__main__":
-	main()
+    frases_aleatorias = frotar(n_frases=3)
+    for frase in frases_aleatorias:
+        print(frase)
+
