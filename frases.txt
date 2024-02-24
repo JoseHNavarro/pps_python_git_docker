@@ -1,0 +1,5 @@
+frase 1
+frase 2
+frase 3
+frase 4ç
+frase 5
